@@ -1,0 +1,2 @@
+node frds.js
+pause
